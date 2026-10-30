@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "io.github.lucaerler2012svg.tomefusion.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "AnvilMenuMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
